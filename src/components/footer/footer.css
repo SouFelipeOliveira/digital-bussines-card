@@ -1,0 +1,24 @@
+footer {
+    background-color: #161619;
+    width: 317px;
+    height: 54px;
+    border-radius: 0px 0px 10px 10px;
+    margin-bottom: 30px;
+}
+
+.footer--icons {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.footer-icon-button {
+    background-color: transparent;
+    border: none;
+    padding-top: 14px;
+}
+
+.footer-icon-img {
+    width: 25px;
+    border-radius: 3px;
+}
